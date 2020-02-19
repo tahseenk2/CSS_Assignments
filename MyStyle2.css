@@ -1,0 +1,70 @@
+.A2{
+	background-color:white;
+}
+
+.Outer{
+	width: 800px;
+	height: 500px;
+	border:2px solid black;
+	text-align: center;
+	margin-top: 100px;
+	margin-left: 400px;
+}
+.upper{
+
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	border:1.5px solid black;
+}
+.bottom{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border-right:2px solid black;
+}
+.ul{
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 5px;
+	height: 150px;
+	background-color:#FF9999;
+	
+}
+
+.bottom-first{
+	background-color: yellow;
+	border-left: 1.5px solid black;
+	border-bottom: 1.5px solid black;
+	width: 495px;
+	height: 315px;
+	float: left;
+}
+.bottom-first .imagesection{
+	background-image:url('img1.jpg');
+	margin-left: 5.5px;
+	margin-top: 5.5px;
+	width: 480px;
+	height: 270px;
+	
+}
+.imagesection p{
+	padding-top: 20%;
+	color: white;
+	font-family: "arial";
+	font-size: 30px;
+}
+.bottom-second{
+	float: right;
+	background-color: lightgrey;
+	border-right: 1.5px solid black;
+	border-bottom:  1.5px solid black;
+	border-left:  1.5px solid black;
+	width: 276.5px;
+	height: 315px;
+}
+.bottom-second .image-section2{
+	margin-left: 5px;
+	margin-top: 5px;
+	
+}
