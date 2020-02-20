@@ -1,8 +1,10 @@
 .sections{
     
     width:1280px;
-	border: 1.5px solid black;
+	border:2.5px solid black;
 }
+
+
 .section1 {
 	
   max-height: 260px;
