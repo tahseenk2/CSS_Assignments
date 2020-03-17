@@ -46,7 +46,7 @@
 .bottom-first .imagesection{
 	background-image:url('img1.jpg');
 	margin-left: 5.5px;
-	margin-top:-20px;
+	margin-top:-15px;
 	width: 98%;
 	height: 94%;
 	padding-top:0px;
@@ -70,5 +70,30 @@
 .bottom-second .image-section2{
 	margin-left: 5px;
 	margin-top: 5px;
+	
+}
+
+.img2{
+	width:150px;
+	height:130px
+}
+
+#p1{
+	display: inline-block;
+  text-align: justify;
+  font-size: 35px;
+  padding-top:4px;
+  
+}
+
+#p2{
+	 font-size: 20px;
+  margin: -8px;
+}
+
+#p3{
+	
+  text-align:left-side;
+  font-size:25px;
 	
 }
