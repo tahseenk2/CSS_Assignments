@@ -3,6 +3,7 @@
 }
 
 .Outer{
+	
 	width: 800px;
 	height: 500px;
 	border:2px solid black;
@@ -11,7 +12,7 @@
 	margin-left: 400px;
 }
 .upper{
-
+    background-color:#FF9999;
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-top: 10px;
